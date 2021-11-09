@@ -1,4 +1,4 @@
-# Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
+# GSP314 : Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 
 ## Task 1 : Create Production Environment
  - **Navigation Menu ->Compute engine ->VM instances** 
@@ -84,5 +84,4 @@ git commit -a -m "change"
 git tag v1.0.1
 git push --tags
 ```
-
 **Congratulations, This Lab is Completed** 🤩
