@@ -2,7 +2,7 @@
 This repo contains solution for 30 days of Google Cloud PRogram Solutions 
 
 Track 1: Cloud Engineering Track
-| S. No. | Quest | Labs |
+| Sr.No. | Quest | Labs |
 |:-----:|:-----:|:-----:|
 |  1. | [Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120) | [1. Creating a Virtual Machine](https://www.youtube.com/watch?v=Co34im5mgGA) <br> [2. Getting Started with Cloud Shell and gcloud](https://www.youtube.com/watch?v=bMVBLE4dJRk) <br> [3. Kubernetes Engine: Qwik Start](https://www.youtube.com/watch?v=W15XgGTfHCQ) <br> [4. Set Up Network and HTTP Load Balancers](https://www.youtube.com/watch?v=dqXzfAZFJeE) <br> [5. Create and Manage Cloud Resources: Challenge Lab](https://www.youtube.com/watch?v=2pNTwtxGsF8) |
 |  2. | [Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118) | [1. Cloud Storage: Qwik Start - Cloud Console](https://www.youtube.com/watch?v=A-_3RbAbE7E) <br> [2. Cloud IAM: Qwick Start](https://www.youtube.com/watch?v=jbW70MdoeXI) <br> [3. Cloud Monitoring: Qwick Start](https://www.youtube.com/watch?v=tx8I0N6F40E) <br> [4. Cloud Functions: Qwick Start - Console](https://www.youtube.com/watch?v=sZo58_0ZOhM) <br> [5. Google Cloud Pub/Sub: Qwick Start - Console](https://www.youtube.com/watch?v=2Lsz9zzQ7GQ) <br> [6. Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=aLmNzIYhY6U) |
