@@ -33,6 +33,7 @@ gcloud compute instances add-tags juice-shop --tags=internal-ssh-ingress --zone=
 ssh [Internal IP address of juice-shop]
 ```
 
+
 **Congratulations, This Lab is Completed** 🤩
 
 
