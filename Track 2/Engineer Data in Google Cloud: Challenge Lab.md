@@ -1,4 +1,4 @@
-# GSP327: Engineer Data in Google Cloud
+# GSP327: Engineer Data in Google Cloud: Challenge Lab
 
 ## Task - 1: Clean your training data
 ```bash
@@ -29,7 +29,7 @@ WHERE
   AND passenger_count > 0
 ```
 
-## Task - 2: Create a BQML model called taxirides.fare_model
+## Task - 2: Create a BQML model called taxi rides.fare_model
 ```bash
 CREATE OR REPLACE MODEL taxirides.fare_model
 TRANSFORM(
@@ -53,5 +53,6 @@ SELECT * FROM ML.PREDICT(MODEL taxirides.fare_model,(
   SELECT * FROM taxirides.report_prediction_data)
 )
 ```
+
 
 **Congratulations, This Lab is Completed** 🤩
