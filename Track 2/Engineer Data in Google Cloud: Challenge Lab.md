@@ -1,4 +1,4 @@
-# GSP327: Engineer Data in Google Cloud: Challenge Lab
+# GSP327: Engineer Data in Google Cloud
 
 ## Task - 1: Clean your training data
 ```bash
