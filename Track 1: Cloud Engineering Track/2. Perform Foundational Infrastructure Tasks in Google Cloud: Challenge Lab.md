@@ -126,5 +126,4 @@ exports.thumbnail = (event, context) => {
 - **Search for the "Username 2" > Edit > Delete Role**
 
 
-
 **Congratulations, This Lab is Completed** 🤩
