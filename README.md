@@ -25,4 +25,4 @@ This repository contains solution for 30 days of Google Cloud Program Solutions 
 
 **Congratulations For The Completion of 30 Days of Google Cloud** 🤩
 
-**My Qwiklab's Profile:-[Preet Ojha](https://lnkd.in/g33TNTTe)**
+**My Qwiklab's Profile: [Preet Ojha](https://lnkd.in/g33TNTTe)**
