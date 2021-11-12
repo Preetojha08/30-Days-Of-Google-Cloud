@@ -12,7 +12,6 @@ This repository contains solution for 30 days of Google Cloud Program Solutions 
 |  6. | [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116) | [1. Introduction to Docker](https://www.youtube.com/watch?v=-iSfTwlufPI) <br> [2. Kubernetes Engine: Qwik Start](https://www.youtube.com/watch?v=W15XgGTfHCQ) <br> [3. Orchestrating the Cloud with Kubernetes](https://www.youtube.com/watch?v=BV-55nWWtrQ) <br> [4. Managing Deployments Using Kubernates Engine](https://www.youtube.com/watch?v=ugaVutkxpQs) <br> [5. Continuous Delivery with Jenkins in Kubernetes Engine](https://www.youtube.com/watch?v=t_WrxvCGX5Y) <br> [6. Deploy to Kubernetes in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=YQhd0HzQNKw) |
 
 
-
 ## Track 2: Data Science & Machine Learning Track
 | S. No. | Quest | Labs |
 |:-----:|:-----:|:-----:|
